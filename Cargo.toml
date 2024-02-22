@@ -1,0 +1,12 @@
+[package]
+name = "three_rusty_hellos"
+version = "0.1.0"
+authors = ["Kelly Hubble"]
+description = "A little example for me to learn a little about cross compiling in Rust"
+edition = "2021"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+colored = "2.1.0"
